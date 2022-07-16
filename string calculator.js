@@ -18,4 +18,8 @@ const Calculator=(stringnumbers)=> {
         return total;   
     }
   }
-  console.log(Calculator("1\n-2"));
+  //console.log(Calculator("1\n-2"));
+  console.log(Calculator("1\n2,3"));
+  console.log(Calculator("1\n9,11"));
+  console.log(Calculator("1\n5,8"));
+  
