@@ -22,5 +22,5 @@ const Calculator=(stringnumbers)=> {
   console.log(Calculator("1\n9,11"));
   console.log(Calculator("1\n5,8"));
   console.log(calculator('//;\n1;2'))
-  //console.log(Calculator("1\n-2"));
+  console.log(Calculator("1\n-2"));
   
